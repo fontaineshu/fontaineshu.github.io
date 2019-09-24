@@ -29,6 +29,7 @@ body.static {
 		margin-bottom: 15px;
 		font-size: 34px;
   	font-weight: 300;
+  	line-height: 40px;
 		color: #000;
 	}
 	.static p + h3 {
